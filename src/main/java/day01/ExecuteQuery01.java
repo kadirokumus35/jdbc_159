@@ -1,3 +1,5 @@
+package day01;
+
 import java.sql.*;
 
 public class ExecuteQuery01 {
