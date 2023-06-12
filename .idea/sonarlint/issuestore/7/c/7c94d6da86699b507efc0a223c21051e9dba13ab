@@ -1,0 +1,17 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤™Êäþÿÿÿÿ8ÐÃ¼¿‰1
+d
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(‹½»ž8Úú‘¿‰1
+d
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(¦…Ög8Úú‘¿‰1
+R
+java:S6437"6Revoke and change this password, as it is compromised.(¦…Ög8Ýú‘¿‰1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¾¥¾É8Þú‘¿‰1
+]	java:S125"<This block of commented-out lines of code should be removed.(¹òÞäÿÿÿÿÿ8ßú‘¿‰1
+U	java:S106("9Replace this use of System.out or System.err by a logger.(Àñ±€8ßú‘¿‰1
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(í£¨¦ùÿÿÿÿ8àú‘¿‰1
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(Ã»Ýÿÿÿÿÿ8áú‘¿‰1
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(áµë˜þÿÿÿÿ8áú‘¿‰1
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(Çüôêÿÿÿÿÿ8âú‘¿‰1
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(›çáÕüÿÿÿÿ8«Ê¨¿‰1
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(ô³Óî8®Ê¨¿‰1

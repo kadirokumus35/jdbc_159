@@ -1,0 +1,22 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤™Êäşÿÿÿÿ8Ó¿±Ş‰1
+i
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(ùÃ›ßúÿÿÿÿ8¨îÛ¹‰1
+e
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(Ñµˆ8©îÛ¹‰1
+V
+java:S1854,"9Remove this useless assignment to local variable "query".(€Œ‘Î8†ìß¹‰1
+U
+java:S1854 "8Remove this useless assignment to local variable "sql1".(¹ØÔ8İ‹ã¹‰1
+O
+java:S4925"-Remove this "Class.forName()", it is useless.(õ†¨Äùÿÿÿÿ8«îÛ¹‰1
+X
+java:S6437"6Revoke and change this password, as it is compromised.(ú×Æ›üÿÿÿÿ8«îÛ¹‰1
+]	java:S125"<This block of commented-out lines of code should be removed.(š›Õ¿şÿÿÿÿ8¬îÛ¹‰1
+F
+java:S1481 ")Remove this unused "sql1" local variable.(¹ØÔ8ì‹ã¹‰1
+X	java:S125("<This block of commented-out lines of code should be removed.(…­Ëß8¬îÛ¹‰1
+G
+java:S1481,"*Remove this unused "query" local variable.(€Œ‘Î8ˆìß¹‰1
+]	java:S125-"<This block of commented-out lines of code should be removed.(ÂÑ‚şÿÿÿÿ8ÙşŞ¹‰1
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(ÌÜà„8­îÛ¹‰1

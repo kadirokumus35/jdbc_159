@@ -1,0 +1,17 @@
+
+h
+java:S1192"KDefine a constant instead of duplicating this literal "department" 3 times.(º÷ÍÔ8Æï²ß‰1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤™Êäþÿÿÿÿ8Ã¿±ß‰1
+d
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(‹½»ž8ë¿±ß‰1
+d
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(¦…Ög8ë¿±ß‰1
+R
+java:S6437"6Revoke and change this password, as it is compromised.(¦…Ög8í¿±ß‰1
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(Ì¾öÀüÿÿÿÿ8ï¿±ß‰1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(º÷ÍÔ8ï¿±ß‰1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(á•¸žøÿÿÿÿ8ð¿±ß‰1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(À¿ééùÿÿÿÿ8ð¿±ß‰1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ä„›Ûÿÿÿÿÿ8ñ¿±ß‰1
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(¿äŒ”ÿÿÿÿÿ8ñ¿±ß‰1
